@@ -20,14 +20,32 @@ I'm a backend-focused Software Engineer at **Kratikal Technologies**, where I sh
 
 My work lives where **performance meets reliability**: I design **queue-based asynchronous systems** (BullMQ), squeeze latency out of hot paths with **Redis caching**, and wire up **LLM APIs** (Claude, OpenAI, Whisper) to automate workflows that used to eat hours of manual effort. I care about systems that hold up when traffic spikes — and code the next engineer can actually read.
 
-```js
+```javascript
 const rashi = {
   role: "Backend Engineer @ Kratikal",
-  building: "AstraReach — AI-powered outbound CRM",
-  stack: ["Node.js", "BullMQ", "Redis", "MySQL", "Claude API"],
-  fundamentals: { leetcode: "800+", peakRating: 1780 },
-  education: "MCA, MNNIT Allahabad (8.42) · Silver Medalist",
-  status: "Open to backend / SDE roles at product startups",
+  currentlyBuilding: "AstraReach — AI-powered outbound CRM",
+  techStack: [
+    "Node.js",
+    "BullMQ",
+    "Redis",
+    "MySQL",
+    "Claude API",
+  ],
+  fundamentals: {
+    leetCodeProblemsSolved: "800+",
+    peakContestRating: 1780,
+  },
+  education: {
+    degree: "MCA",
+    institute: "MNNIT Allahabad",
+    CGPA: 8.42,
+    achievement: "Silver Medalist",
+  },
+  openTo: [
+    "Backend Engineer",
+    "Software Development Engineer (SDE)",
+    "Product Startups",
+  ],
 };
 ```
 
