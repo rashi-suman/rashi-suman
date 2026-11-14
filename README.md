@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Rashi Suman 👋</h1>
+# Hi, I'm Rashi Suman 👋
+
+<h3 align="center">⚙️ Backend Engineer · Node.js · Distributed Systems</h3>
 
 <p align="center">
-  <b>⚙️ Backend Engineer · Node.js · Distributed Systems</b><br/>
   <i>I build queue-driven backends that stay fast under load — caching, message queues, and AI integrations that cut real work for real teams.</i>
 </p>
 
@@ -53,37 +54,43 @@ const rashi = {
 
 ### 🛠️ Tech I Work With
 
-**Languages** &nbsp;`JavaScript (ES6+)` `TypeScript` `C++` `Java` `SQL`
+**Languages** &nbsp; `JavaScript (ES6+)` `TypeScript` `C++` `Java` `SQL`
 
-**Backend** &nbsp;`Node.js` `Express.js` `REST APIs` `Sequelize` `WebSockets`
+**Backend** &nbsp; `Node.js` `Express.js` `REST APIs` `Sequelize` `WebSockets`
 
-**Data & Infra** &nbsp;`MySQL` `MongoDB` `Redis` `BullMQ` `Docker`
+**Data & Infra** &nbsp; `MySQL` `MongoDB` `Redis` `BullMQ` `Docker`
 
-**Concepts** &nbsp;`System Design` `Microservices` `Message Queues` `Caching` `OOP` `Data Structures & Algorithms`
+**Concepts** &nbsp; `System Design` `Microservices` `Message Queues` `Caching` `OOP` `Data Structures & Algorithms`
 
-**AI / APIs** &nbsp;`Anthropic Claude` `OpenAI` `Whisper` `Twilio` `Exotel`
+**AI / APIs** &nbsp; `Anthropic Claude` `OpenAI` `Whisper` `Twilio` `Exotel`
 
-**Tools** &nbsp;`Git` `GitHub` `Postman` `Jira` `Agile/Scrum`
+**Tools** &nbsp; `Git` `GitHub` `Postman` `Jira` `Agile/Scrum`
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🛰️ [AstraReach — AI-Powered Multichannel Outbound CRM](https://github.com/rashi-suman/astrareach)
+
 Production-grade B2B outreach platform built to scale to **10M+ contacts** and **1M+ emails/day**.
-- **Queue-based async backend** with BullMQ workers, schedulers, and webhook processing — eliminated blocking workloads and cut failed campaign jobs by **40%**
-- **3-pass Claude AI enrichment pipeline** (Company → Person → Cross-verify) with confidence scoring and source attribution — never overwrites existing data, discards anything below 70% confidence
-- **RBAC + secure session management**, CSV/XLSX import with keyset pagination tuned for millions of rows
+
+- **Queue-based async backend** with BullMQ workers, schedulers, and webhook processing — eliminated blocking workloads and cut failed campaign jobs by **40%**.
+- **3-pass Claude AI enrichment pipeline** (Company → Person → Cross-verify) with confidence scoring and source attribution — never overwrites existing data, discards anything below 70% confidence.
+- **RBAC + secure session management**, CSV/XLSX import with keyset pagination tuned for millions of rows.
 - `Node.js` · `Express` · `MySQL` · `Redis` · `BullMQ` · `Anthropic Claude API`
 
 #### 🎓 [MNNIT Connect Hub](https://github.com/rashi-suman/project-2024)
+
 A campus networking platform connecting MNNIT students and alumni — making it easy to find peers, share opportunities, and stay connected across batches.
-- Full CRUD with user profiles and a searchable directory
-- Clean, modular JavaScript codebase with a responsive UI
-- `JavaScript` · `Node.js` · `Express` . `MySQL`
+
+- Full CRUD with user profiles and a searchable directory.
+- Clean, modular JavaScript codebase with a responsive UI.
+- `JavaScript` · `Node.js` · `Express` · `MySQL`
 
 #### 🖼️ [AI Image Generator](https://github.com/rashi-suman/ai-generated-img)
+
 Image-generation app wired to a generative AI API — practical experience integrating third-party AI services.
+
 - `JavaScript`
 
 ---
@@ -91,9 +98,11 @@ Image-generation app wired to a generative AI API — practical experience integ
 ### 💼 Experience Snapshot
 
 **Software Engineer**, Kratikal Technologies · *Jul 2025 – Present*
+
 Built AI vishing & WhatsApp attack simulations (Twilio, Exotel, OpenAI) and a multi-module reporting engine. Redis caching + BullMQ CSV exports cut DB load **60–70%** and improved API responsiveness **40%+** at peak.
 
 **Software Engineer Intern**, Kratikal Technologies · *Jan 2025 – Jun 2025*
+
 Shipped a Whisper-based subtitle pipeline (manual effort **−80%**), optimized LMS analytics APIs (cached DB hits **−90%**), and resolved high-priority VAPT security findings.
 
 ---
@@ -101,10 +110,12 @@ Shipped a Whisper-based subtitle pipeline (manual effort **−80%**), optimized 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi-suman&show_icons=true&hide_border=true&count_private=true" height="160" alt="Rashi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-suman&layout=compact&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashi-suman&show_icons=true&hide_border=true&count_private=true" height="160" alt="Rashi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-suman&layout=compact&hide_border=true" height="160" alt="Top languages"/>
 </p>
 
 ---
 
-<p align="center"><i>⚡ Backend that scales. Code that reads. Let's build something fast and reliable.</i></p>
+<p align="center">
+  <i>⚡ Backend that scales. Code that reads. Let's build something fast and reliable.</i>
+</p>
