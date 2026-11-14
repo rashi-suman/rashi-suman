@@ -82,10 +82,6 @@ A campus networking platform connecting MNNIT students and alumni — making it 
 - Clean, modular JavaScript codebase with a responsive UI
 - `JavaScript` · `Node.js` · `Express` . `MySQL`
 
-#### ✅ [Task Tracker](https://github.com/rashi-suman/task-tracker)
-A clean task-management app demonstrating CRUD design, state handling, and a focused, readable codebase.
-- `JavaScript`
-
 #### 🖼️ [AI Image Generator](https://github.com/rashi-suman/ai-generated-img)
 Image-generation app wired to a generative AI API — practical experience integrating third-party AI services.
 - `JavaScript`
